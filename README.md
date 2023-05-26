@@ -21,7 +21,11 @@ Funcionalidades desejadas:
 -	Buscar por ID
 -	Remover planeta
 
-**Linguagem:** Java >= 8
-**Banco de dados:**  PostgreSQL
-**Obs:**   Utilizar Docker para o PostgreSQL e a aplicação Java
-**Bonus:** Caso queira utilizar Spring WebFlux contara mais pontos.  
+**Linguagem:** Java >= 8 <br>
+**Banco de dados:**  PostgreSQL <br>
+**Obs:**   Utilizar Docker para o PostgreSQL e a aplicação Java <br>
+**Bonus:** Caso queira utilizar Spring WebFlux contara mais pontos.  <br>
+
+
+**Abrir um PR neste mesmo repositório** 
+
