@@ -1,0 +1,22 @@
+spring:
+  r2dbc:
+    url: r2dbc:postgresql://localhost:5432/postgres?schema=starwars
+    username: root
+    password: root
+    ddl-auto: create
+  
+  jpa:
+    hibernate:
+      ddl-auto: create
+    
+    
+logging:
+  level:
+    org:
+      springframework:
+        data:
+          r2dbc: DEBUG
+          
+          
+swapi:
+  url: https://swapi.dev/api/planets/
